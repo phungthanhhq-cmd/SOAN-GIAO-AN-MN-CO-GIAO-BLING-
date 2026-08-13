@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix: Remix: Remix:Chuyên gia soạn giáo án Mầm non (Cô giáo Bbling)",
+  "description": "Ứng dụng hỗ trợ giáo viên soạn giáo án mầm non bám sát Chương trình Giáo dục Mầm non Việt Nam hiện hành.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
